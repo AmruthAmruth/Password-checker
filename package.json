@@ -1,0 +1,25 @@
+{
+  "name": "passify",
+  "version": "1.0.0",
+  "description": "A lightweight and powerful password checker and generator. Checks password strength (weak, medium, strong) and generates secure, customizable passwords.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmruthAmruth/Password-checker.git"
+  },
+  "keywords": [
+    "\"password\""
+  ],
+  "author": "\"Amrruth Shyju\",",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmruthAmruth/Password-checker/issues"
+  },
+  "homepage": "https://github.com/AmruthAmruth/Password-checker#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
