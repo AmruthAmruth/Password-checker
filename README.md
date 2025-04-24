@@ -23,3 +23,19 @@ npm install passify
 Usage
 1. Check Password Strength
 This function checks the strength of a password and provides feedback on how to improve it.
+
+Example:
+
+const { checkPasswordStrength } = require('passify');
+const password = 'Passw0rd!';
+const result = checkPasswordStrength(password);
+console.log(result);
+
+Output:
+
+{
+  "strengthLevel": "Strong",
+  "score": 5,
+  "feedback": ["Password is strong."]
+}
+
