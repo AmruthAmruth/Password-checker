@@ -1,6 +1,6 @@
 {
   "name": "password-sentry",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "A lightweight and powerful password checker and generator. Checks password strength (weak, medium, strong) and generates secure, customizable passwords.",
   "main": "index.js",
   "scripts": {
